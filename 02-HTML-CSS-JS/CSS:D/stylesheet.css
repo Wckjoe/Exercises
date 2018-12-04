@@ -1,0 +1,23 @@
+.wrapper{
+    background: #ffffff;
+    margin: 0;
+}
+
+.blue{
+    background: blue;
+}
+
+.red{
+    background: red;
+    margin: auto;
+}
+
+.green{
+    background: green;
+    float: right;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+}

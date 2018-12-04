@@ -1,0 +1,31 @@
+.wrapper{
+    background: #ffffff;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper2{
+    background: #ffffff;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.blue{
+    background: blue;
+}
+
+.red{
+    background: red;
+}
+
+.green{
+    background: green;
+    order: 1;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+}
